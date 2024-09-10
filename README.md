@@ -1,2 +1,4 @@
-# pasaraiva
-Its me
+- Acesse o meu [LinkedIn](https://www.linkedin.com/in/pedro-a-saraiva-jr-a7562660)
+- Acesse o meu [Credly](https://www.credly.com/users/pedro-a-saraiva-jr)
+- Acesse o meu [Microsoft Learn](https://learn.microsoft.com/en-us/users/pedrosaraiva)
+- Acesse o meu [Google Skill Boost](https://www.cloudskillsboost.google/public_profiles/d0ddcf94-6998-43bb-8dc0-22b5a50e4579)
