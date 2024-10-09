@@ -5,6 +5,7 @@
   - [Google Prompt Design in Vertex AI Skill Badge](https://www.credly.com/badges/96d82646-c824-4ae9-8a3e-3e5c2dc06f6d)
   - [Google Develop GenAI Apps with Gemini and Streamlit Skill Badge](https://www.credly.com/badges/4e20d06f-7b03-4984-99e8-e89c4b9c3636)
   - [Google Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge](https://www.credly.com/badges/45d426cc-8369-447c-b91c-e0ce9a943610)
+  - [Google AI Essentials](https://www.credly.com/badges/3ed63a09-2d05-41cc-95a1-053644b531e7)
 - AWS Skill Builder
   - [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/4RXJPH7KW1R419C9)
 - Acesse o meu [Microsoft Learn](https://learn.microsoft.com/en-us/users/pedrosaraiva)
