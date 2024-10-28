@@ -8,7 +8,7 @@
   - [Google AI Essentials](https://www.credly.com/badges/3ed63a09-2d05-41cc-95a1-053644b531e7)
 - AWS Skill Builder
   - [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/4RXJPH7KW1R419C9)
-- Acesse o meu [Microsoft Learn](https://learn.microsoft.com/en-us/users/pedrosaraiva)
+- Acesse o meu [Microsoft Learn](https://learn.microsoft.com/pt-br/users/p-saraiva/transcript/v0gm6h2q1mr25z0)
   - [AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/PedroSaraiva/AC7ADD88151E1D26?sharingId=112E22B5EB69A34C)
   - [DP-900: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/PedroSaraiva/3CFFE9226A1B5ABB?sharingId=112E22B5EB69A34C)
   - [AZ-900: Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/PedroSaraiva/931E535FE16CB69D?sharingId=112E22B5EB69A34C)
