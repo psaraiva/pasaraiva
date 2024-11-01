@@ -1,5 +1,5 @@
-- Acesse o meu [LinkedIn](https://www.linkedin.com/in/pedro-a-saraiva-jr-a7562660)
-- Acesse o meu [Credly](https://www.credly.com/users/pedro-a-saraiva-jr)
+- Acesse o meu [LinkedIn](https://www.linkedin.com/in/p-saraiva)
+- Acesse o meu [Credly](https://www.credly.com/users/p-saraiva)
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c111ca6a-d390-4f95-bcdf-7f3c2313e74c)
   - [IBM Python for Data Science](https://www.credly.com/badges/0aa8a64b-500e-4a90-a662-60fabbc4f90f)
   - [Google Prompt Design in Vertex AI Skill Badge](https://www.credly.com/badges/96d82646-c824-4ae9-8a3e-3e5c2dc06f6d)
